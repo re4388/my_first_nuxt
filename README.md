@@ -1,6 +1,10 @@
 # my-first-nuxt
 
-> first try
+
+## TODO
+[] check most the code I know
+[] Try to add more functionality
+
 
 
 
