@@ -17,6 +17,8 @@
 - [Installation - NuxtJS](https://nuxtjs.org/guide/installation)
 - [#2: 三秒建立一個 Nuxt 應用 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10200543)
 - [Universal application code structure in Nuxt.js - freeCodeCamp.org - Medium](https://medium.com/free-code-camp/universal-application-code-structure-in-nuxt-js-4cd014cc0baa)
+- [Material Design Icons](https://materialdesignicons.com/cdn/2.0.46/)
+- [HTML to PUG - Free HTML to PUG Online Converter](https://html-to-pug.com/)
 
 
 ## Build Setup
