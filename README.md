@@ -19,6 +19,7 @@
 - [Universal application code structure in Nuxt.js - freeCodeCamp.org - Medium](https://medium.com/free-code-camp/universal-application-code-structure-in-nuxt-js-4cd014cc0baa)
 - [Material Design Icons](https://materialdesignicons.com/cdn/2.0.46/)
 - [HTML to PUG - Free HTML to PUG Online Converter](https://html-to-pug.com/)
+- [Vue Material Design Component Framework — Vuetify.js](https://vuetifyjs.com/en/)
 
 
 ## Build Setup
