@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "cross-env": "^5.2.0",
     "koa": "^2.6.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2"
   },
